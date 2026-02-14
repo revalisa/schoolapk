@@ -14,7 +14,8 @@
 		{
 			"binding": "schooldb",
 			"database_name": "schooldb",
-			"database_id": "1bf2cc28-1f06-4bae-9d5d-538e5a2d8c67"
+			"database_id": "1bf2cc28-1f06-4bae-9d5d-538e5a2d8c67",
+			"remote": true
 		}
 	]
 }
